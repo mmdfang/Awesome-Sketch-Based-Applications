@@ -1,5 +1,6 @@
 # Awesome-Sketch-Based-Applications
 
+today is not a happy day!
 A collection of sketch based applications.
 
 > Feel free to create a PR or an issue.
